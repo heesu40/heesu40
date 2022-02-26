@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![heesu40](https://github-readme-stats.vercel.app/api?username=heesu40&show_icons=true&card_width=50&theme=buefy)
 [![heesu40](https://github-readme-stats.vercel.app/api/top-langs/?username=heesu40&show_icons=true&hide_border=true&title_color=004386&count_private=true&icon_color=004386&langs_count=7?hide=Tcl&layout=compact)](https://github.com/heesu40)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesu40)](https://solved.ac/heesu40)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesu40)](https://solved.ac/heesu40)-->
 <!--
 # :sunny: Study 
 1. java 
