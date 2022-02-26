@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesu40%2FSTUDY&count_bg=%23E25A1C&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E25A1C&title=spark&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![heesu40](https://github-readme-stats.vercel.app/api?username=heesu40&show_icons=true&theme=buefy)
+[![heesu40](https://github-readme-stats.vercel.app/api/top-langs/?username=heesu40&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&langs_count=7?hide=Tcl&layout=compact)](https://github.com/heesu40)
 <!--
 # :sunny: Study 
 1. java 
