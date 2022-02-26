@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesu40%2FSTUDY&count_bg=%23E25A1C&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E25A1C&title=spark&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![heesu40](https://github-readme-stats.vercel.app/api?username=heesu40&show_icons=true&theme=buefy)
+<!--
 # :sunny: Study 
 1. java 
    - [java1](https://github.com/heesu40/STUDY/blob/master/Study/Day%201-8.md)
@@ -60,3 +61,4 @@ Here are some ideas to get you started:
 11. 그 외
     - [4차산업혁명](https://github.com/heesu40/STUDY/blob/master/Study/The%20Fourth%20Industrial%20Revolution.md)
 
+-->
